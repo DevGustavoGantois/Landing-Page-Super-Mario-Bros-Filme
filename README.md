@@ -6,6 +6,14 @@
 <p>Fiz o deploy da minha aplicação no Netfly.app</p>
 <p>Também adicionei responsividade a este projeto</p>
 
+
+<h3>Tecnologias usadas neste projeto</h3>
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>Utilizei a biblioteca de animação AOS animation.</p>
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://github.com/DevGustavoGantois/Landing-Page-Super-Mario-Bros-Filme/assets/123424700/55e6b4a2-c1c2-4db0-bf8a-5bdabe0228b7)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
